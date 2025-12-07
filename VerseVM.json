@@ -4,9 +4,9 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2024-04-08T17:51:47+00:00",
-    "name": "VerseVM",
-    "author": "info@paladinsrv.com",
+    "exported_at": "2025-12-07T09:09:02+05:30",
+    "name": "LumenVM",
+    "author": "reabillaw@gmail.com",
     "description": "Bringing virtual machines to Pterodactyl",
     "features": null,
     "docker_images": {
@@ -20,13 +20,13 @@
         "Windows 98": "ghcr.io\/zenllc\/versevm:win98-desktop",
         "Kali": "ghcr.io\/zenllc\/versevm:kali-desktop",
         "Tools (Advanced)": "ghcr.io\/zenllc\/versevm:tools",
-        "Troubleshooting Shell": "ghcr.io\/david1117dev\/vpsegg:shell"
+        "Troubleshooting Shell": "ghcr.io\/david1117dev\/lumenvm:shell"
     },
     "file_denylist": [],
-    "startup": "#Thanks for using VerseVM",
+    "startup": "#Thanks for using LumenVM",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": [\r\n        \"Booting\",\r\n        \"Starting VerseVM\"\r\n    ]\r\n}",
+        "startup": "{\r\n    \"done\": [\r\n        \"Booting\",\r\n        \"Starting LumenVM\"\r\n    ]\r\n}",
         "logs": "{}",
         "stop": "^C^C"
     },
